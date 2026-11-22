@@ -7,4 +7,4 @@ if __name__ == "__main__":
 
 
 def farewell(name):
-    return f"Goodbye, {name}!"
+    return f"Farewell, {name}!"
